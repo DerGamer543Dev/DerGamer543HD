@@ -1,5 +1,4 @@
 👋 Hi, I’m DerGamer543HD
- - I’m currently learning PHP
 
  ### Tools
  <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50"></img>
