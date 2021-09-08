@@ -15,7 +15,6 @@
  <!-- <img alt="" src="" width="50" height="50"></img> -->
 
  ### Server Developer
-  - CrystalCube
-  - EnderCraft
+  - EnderCraft Network
 
 ![IMAGE#001](https://github-readme-stats.vercel.app/api/top-langs/?username=DerGamer543HD&hide=shell)
